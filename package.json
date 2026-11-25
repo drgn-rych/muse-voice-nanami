@@ -1,0 +1,1 @@
+{"dependencies":{"msedge-tts":"^2.1.1"},"description":"ムースの声テストページ。入力した日本語を、ななみ（ja-JP-NanamiNeural）の声で読み上げます。","engines":{"node":">=18"},"name":"muse-nanami-voice-test","private":true,"version":"1.0.0"}
